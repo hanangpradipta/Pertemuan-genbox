@@ -1,0 +1,113 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #0080FF;
+
+}
+.head{
+    margin-top: 10px;
+    margin-left: 85px;
+    position: relative;
+}
+.logo{
+    width: 200px;
+    display: inline-block;
+    position: relative;
+    top: 15px;
+    
+}
+.list1{
+    display: inline-block;
+    margin-left: 20px;
+}
+.menu{
+    margin-left: 70px;
+    font-size: 17px;
+
+}
+.opsi{
+    color: white;
+   text-decoration: none;
+}
+.isi{
+    width: 584px;
+    height: 538px;
+    background-color: white;
+    left: 380px;
+    top: 130px;
+    position: absolute;
+    border-radius: 15px;
+
+}
+.daftar{
+
+    width: 180px;
+    height: 49px;
+    font-size: 48px;
+    margin-top: 50px;
+    margin-left: 225px;
+    color: #333333;
+}
+.teks{
+
+    width: 304px;
+    height: 52px;
+    text-align: center;
+    font-size: 18px;
+    margin-top: 10px;
+    margin-left: 140px;
+}
+.user{
+    border-bottom: outset;
+    width: 400px;
+    margin-left:90px ;
+padding-top: 45px;
+margin-top: 15px;
+    text-align: center;
+    text-size-adjust: 50px;
+}
+.pass{
+    border-bottom: outset;
+    text-align: center;
+    margin-left: 90px;
+    padding-top: 45px;
+}
+.konfirm{
+    text-align: center;
+    margin-left: 90px;
+    padding-top: 45px;
+}
+input{
+    border: none;
+    margin-left: 210px;
+    width: 400px;
+}
+
+.b1{
+    margin-top: 30px;
+    width: 180px;
+    height: 60px;
+    background-color: #0080FF;
+    border-radius: 12px;
+    border: none;
+    color: white;
+    margin-left: 105px;
+}
+.b2{
+    width: 180px;
+    height: 60px;
+    border: solid;
+    border-color: #0080FF;
+    border-radius: 12px;
+    background-color: transparent;
+    color: #0080FF;
+    margin-left: 10px;
+}
+.teks2{
+    margin-top: 30px;
+    font-size: 15px;
+    text-align: center;
+}

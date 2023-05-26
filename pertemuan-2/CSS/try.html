@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Show/Hide Div Example</title>
+    <style>
+      /* Style the div you want to show/hide */
+      #myDiv {
+        display: none;
+        padding: 10px;
+        background-color: #f0f0f0;
+      }
+    </style>
+  </head>
+  <body>
+    <button onclick="toggleDiv()">Show/Hide Div</button>
+    <div id="myDiv">This is the div to show/hide</div>
+    
+    <script>
+      function toggleDiv() {
+        var div = document.getElementById("myDiv");
+        if (div.style.display === "none") {
+          div.style.display = "block";
+        } else {
+          div.style.display = "none";
+        }
+      }
+    </script>
+  </body>
+</html>
+
+
+
+

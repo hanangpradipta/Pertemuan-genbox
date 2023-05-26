@@ -1,0 +1,53 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+body{
+    background-color: white;
+}
+
+.utama{
+    width: 405px;
+    height: 405px;
+    background-color: white;
+    border:5px solid yellow;
+    margin: auto;
+    margin-top: 105px;
+    overflow: hidden;
+    position: relative;
+}
+.satu{
+    width: 400px;
+    height: 400px;
+    background-color: pink;
+    margin: auto;
+    position: absolute;
+}
+.dua{
+    width: 200px;
+    height: 400px;
+    background-color: aquamarine;
+   position: absolute;
+   margin-left: 200px;
+}
+.tiga{
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    position: absolute;
+}
+.empat{
+    width: 50px;
+    height: 50px;
+    background-color: aliceblue;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.lima{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    bottom: 560px;
+    left: 940px;
+    position: absolute;
+}

@@ -1,0 +1,78 @@
+*{ }
+body{
+    background-color: transparent;
+}
+.bawah{
+    position: relative;
+    width: 1520px;
+    height: 400px;
+    background-color: yellow;
+    display: inline-block;
+}
+
+.kiri{
+    position: absolute;
+    width: 50%;
+    height: 400px;
+    background-color: #ECECEC;
+    border: none;
+    text-align: right;
+
+}
+.kanan{
+    position: absolute;
+    width: 50%;
+    height: 400px;
+    left: 760px;
+    background-color: #ECECEC;
+    border: none;
+    text-align: left;
+}
+.tex{
+    margin-top: 30px;
+    margin-left: 20px;
+   
+}
+img{
+    margin-top: 35px;
+    margin-right: 20px;
+    width: 250px;
+}
+.txt{
+   margin-right: 20px;
+}
+.b1{
+    margin-left: 20px;
+    width: 150px;
+    height: 40px;
+    border-radius: 8px;
+    background-color:#0080FF ;
+    color: white;
+    font-size: 17px;
+    border: #0080FF;
+}
+.b2{
+    margin-left: 20px;
+    width: 150px;
+    height: 40px;
+    border-radius: 8px;  
+    margin-top: 20px; 
+    background-color: transparent;
+    color: #0080FF;
+    border-color: #0080FF;
+    font-size: 17px; 
+}
+.tekskontak{
+    margin-left: 20px;
+    margin-top: 50px;
+   font-size: 40px;
+}
+button{
+    display: block;
+}
+h2{
+    position: absolute;
+    top: 350px;
+    left: 710px;
+    font-size: 15px;
+}

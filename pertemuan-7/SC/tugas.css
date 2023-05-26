@@ -1,0 +1,130 @@
+.bg{
+    background-color: blanchedalmond;
+    height: 750px;
+    position: relative;
+}
+.img1{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    margin-left: 370px;
+    margin-top: 350px;
+}
+.img2{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    margin-left: 835px;
+    margin-top: 350px;
+}
+.to{
+    position: absolute;
+    font-size: 30PX;
+    margin-left: 665px;
+    margin-top: 55px;
+    color: rgb(255, 213, 151);
+}
+.to2{
+    position: absolute;
+    font-size: 30PX;
+    margin-left: 670px;
+    margin-top: 50px;
+    color: gray;
+}
+.inp{
+    margin-top: 100px;
+    margin-left: 550px;
+    width: 400px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: transparent;
+    border-color: aliceblue;
+    font-size: 25px;
+}
+.button{
+    margin-left: 715px;
+    margin-top: 10px;
+    width: 80px;
+    height: 50px;
+    background-color:rgb(255, 213, 149);
+    border: none;
+    border-radius: 10px ;
+    color: gray;
+}
+.button2{
+    margin-left: 715px;
+    margin-top: 10px;
+    width: 80px;
+    height: 50px;
+    background-color:rgb(255, 213, 149);
+    border: none;
+    border-radius: 10px ;
+    color: gray;
+}
+.button3{
+    margin-left: 715px;
+    margin-top: 10px;
+    width: 80px;
+    height: 50px;
+    background-color:rgb(226, 180, 110);
+    border: none;
+    border-radius: 10px;
+    color: rgb(69, 69, 69);
+}
+/* #todo{
+    list-style: none;
+} */
+p{
+    font-size: 20px;
+    color:rgb(104, 104, 104) ;
+    margin-left: 140px;
+    margin-top: 30PX;
+    position: absolute;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#view{
+    font-size: 20px;
+    color:blanchedalmond;
+    position: absolute;
+    margin-left: 15px;
+}
+.jawab{
+    position: relative;
+    width: 450px;
+    height: 450px;
+    background-color: rgb(255, 223, 182);
+    border-radius: 400px;
+    margin-left: 530px;
+    top: 30px;
+    overflow:auto;
+}
+.pre{
+    width: 400px;
+    height: 25px;
+    background-color: rgb(163, 163, 163);
+    position: relative;
+    margin-left: 554px;
+    border-radius: 8px;
+    overflow: hidden;
+
+    
+}
+#todo{
+    margin-top: 80px;
+    padding-bottom: 80px;
+    font-size: 25px;
+    position: absolute;
+    margin-left: 50px;
+    color: gray;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+li{
+    margin-top: 5px;
+}
+.cek1{
+    width: 18px;
+    height: 18px;
+    margin-left: 15px;
+    background-color: blanchedalmond;
+}

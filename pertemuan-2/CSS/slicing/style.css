@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial;
+    background-color: #efefef;
+}
+.navbar{
+    /*dimensi kotak*/
+    /*satuan yang akan dipakai adalah px/pixel*/
+    width: 100%;
+    background-color: rgb(11, 78, 141);
+    padding: 20px;
+}
+.nav-line {
+    display: inline-block;
+    color: aliceblue;
+}
+.nav-list {
+    margin-left: 25px;
+}
+.nav-link {
+    color: aliceblue;
+    text-decoration: none;
+}
+.kotak { width:60%;
+    height: 450px;
+margin: auto;
+margin-top: 40px;
+border-radius: 20px;
+background-image: url(bg.png);
+background-repeat: no-repeat;
+background-size: cover;
+overflow: hidden;
+position: relative;
+}
+.box{
+    width: 50%;
+    height: 100%;
+    background-color: white;
+    border-radius: 20px;
+    float: right;
+    padding: 60px;
+}
+.brand{
+    color: white;
+    position: absolute;
+    left: 30px;
+    bottom: 20px;
+}
+.judul{
+    text-align: center;
+}
+button{
+    width: 50%;
+    height: 40px;
+    background-color: rgb(11, 78, 141);
+    color: white;
+    border: none;
+    border-radius: 12px;
+    margin-left: 25%;
+}
+
+/*elemen langsung nama elemen*/
+/*class pakai titik depannya*/
+/*class pakai titik depannyaid pakai pagar/hashtag*/
+/*inline = 1000*/
+/*id = 100*/
+/*id = 100*/
+/*id = 100*/

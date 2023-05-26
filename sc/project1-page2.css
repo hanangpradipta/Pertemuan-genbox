@@ -1,0 +1,61 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body{
+    background-color: #0080FF;
+}
+
+.bg{
+    background-color: white;
+    position: absolute;
+    width: 1200px;
+    height: 350px;
+    top: 200px;
+    left: 170px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.img{
+    height: 350px;
+    position: absolute;
+}
+.judul{
+    font-size: 60px;
+    color: white;
+    margin-left: 650px;
+    margin-top: 120px;
+}
+.name{
+    position: absolute;
+    left: 400px;
+    font-size: 50px;
+    top: 90px;
+}
+.ulasan{
+    position: absolute;
+    left: 400px;
+    top: 160px;
+    font-size: 23px;
+
+}
+.bulatan{
+    display: inline-block;
+}
+.bulat{
+    border-radius: 30px;
+    background-color: white;
+    width: 50px;
+}
+.bulat{
+    border-radius: 30px;
+    border: 1px;
+    border-color: white;
+    width: 10px;
+}
+.bulat{
+    border-radius: 30px;
+    border: 1px;
+    border-color: white;
+    width: 10px;
+}
